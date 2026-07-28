@@ -1,12 +1,9 @@
-# Spotify Clone
+# Spotify Clone 🎵
 
-A Spotify UI clone created using HTML and CSS.
+A Spotify Clone built using HTML & CSS.
 
-## Technologies Used
-- HTML
-- CSS
+## 🚀 Live Demo
+👉 **https://vivek-chaudhary-24.github.io/Spotify-Clone/**
 
-## Features
-- Spotify-like interface
-- Responsive design
-- Music cards and layouts
+## 💻 Source Code
+👉 https://github.com/vivek-chaudhary-24/Spotify-Clone
